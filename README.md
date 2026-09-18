@@ -69,7 +69,7 @@
 ```
 ├── README.md
 ├── sql/
-│   └── analysis.sql       # полный аналитический пайплайн (DiD, robustness check, promo analysis)
+│   └── analysis.sql 
 └── charts/
     ├── 01_did_effect.png
     ├── 02_pair_distribution.png
